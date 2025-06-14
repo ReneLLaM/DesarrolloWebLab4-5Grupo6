@@ -8,12 +8,13 @@ Laboratorio 4-5
 - Vargas Oropeza Isaac Joseph
 
 
+# los archivos principales son principal.php para ambos laboratorios
 
 # Credenciales de acceso para ambos laboratorios
 - correo: admin@sis256.edu contraseña: admin
 - correo: usuario@sis256.edu contraseña: usuario
 
-# las bases de datos estan en la carpeta db de cada laboratorio
+# las bases de datos estan en la carpeta db de cada laboratorio 
 - fotografia laboratorio 4: 
 ![Laboratorio 4](Laboratorio%204/bd/diagrama.png)
 - fotografia laboratorio 5: 
